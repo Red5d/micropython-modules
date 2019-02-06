@@ -9,7 +9,7 @@ https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo
 Use this to have your device connect to the wifi network with the best signal strength from a list of networks and associated passwords. 
 
 ### menu.py
-Generates a menu with the specified title and (currently) up to 5 selectable options.
+Displays an interactive menu interface on the screen with the specified title and (currently) up to 5 selectable options.
 
 ### spinner.py
 Displays a (currently fullscreen) loading spinner animation that runs in a background thread so you can have it spinning while your code is loading or running other operations that require waiting.
